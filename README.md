@@ -1,1 +1,1 @@
-# .github
+Profile of inHUMC
